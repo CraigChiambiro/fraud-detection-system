@@ -5,8 +5,7 @@ This is a machine learning web application that detects fraudulent financial tra
 ------------------------------------------
 
 LIVE DEMO
-https://your-streamlit-app-link-here
-
+https://fraud-detection-system-xhtapccyai4u7weahuzfzt.streamlit.app/
 ------------------------------------------
 
 PROJECT OVERVIEW
